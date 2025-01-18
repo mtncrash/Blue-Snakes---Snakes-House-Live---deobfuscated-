@@ -88,6 +88,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it.
-> To run the bot, use the following command: `cd snakes-house-live-main/snakes-house-live; node meomundep`
+> To run the bot, use the following command: `cd "blue snakes (snakes house live)-main/blue snakes (snakes house live)"; node meomundep`
 
 🎇Enjoy!
